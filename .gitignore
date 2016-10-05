@@ -18,3 +18,11 @@ nytprof.out
 *.o
 *.bs
 /_eumm/
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Vim
+*.sw*
